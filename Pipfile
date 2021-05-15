@@ -12,7 +12,7 @@ psycopg2-binary = "*"
 flask-sqlalchemy = "*"
 gunicorn = "*"
 numpy="*"
-numpy as np="*"
+
 
 [requires]
 python_version = "3.9"
