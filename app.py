@@ -4,6 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 from send_mail import send_mail
 import numpy as np 
 import pickle
+import sklearn
 
 app = Flask(__name__)
 
