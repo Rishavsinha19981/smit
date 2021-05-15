@@ -12,6 +12,7 @@ psycopg2-binary = "*"
 flask-sqlalchemy = "*"
 gunicorn = "*"
 numpy="*"
+sklearn="*"
 
 
 [requires]
